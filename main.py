@@ -1,8 +1,6 @@
 from tkinter import HIDDEN
 from random import randint
 
-
-
 def menu():
     print('Welcome to Battleship game!!')
     print('1. Play Game')
