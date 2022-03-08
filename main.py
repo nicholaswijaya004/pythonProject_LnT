@@ -13,6 +13,8 @@ def menu():
     elif choice == "2":
         info()
     elif choice == "3":
+        copyright()
+    elif choice == "4":
         print("Thanks for playing this game!! Hope it'll make your day")
         quit()
     else:
